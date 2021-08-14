@@ -1,0 +1,1090 @@
+                                    .Header {
+                                        width: 100%;
+                                    }
+                                    
+                                    .part1 {
+                                        width: 90%;
+                                        height: 80px;
+                                        box-shadow: 1px 0px 5px 3px #ccc;
+                                        margin: 0px auto 10px auto;
+                                        padding-left: 95px;
+                                        padding-right: 45px;
+                                    }
+                                    
+                                    .part2 {
+                                        width: 100%;
+                                        height: 60px;
+                                        background-color: #ffffff;
+                                        margin-left: 27px;
+                                    }
+                                    
+                                    .logotxt {
+                                        width: 50%;
+                                        float: left;
+                                    }
+                                    
+                                    .logotxt img {
+                                        width: 53px;
+                                        height: auto;
+                                        display: inline;
+                                        padding-top: 7px;
+                                    }
+                                    
+                                    .logotxt h3 {
+                                        height: auto;
+                                        display: inline-block;
+                                        margin-right: 112px;
+                                        float: right;
+                                        margin-top: 10px;
+                                        margin-bottom: 7px;
+                                    }
+                                    
+                                    .logotxt p {
+                                        font-size: 14px;
+                                        margin-left: 75px;
+                                        margin-top: -33px;
+                                    }
+                                    
+                                    .btn {
+                                        float: left;
+                                        margin-top: 20px;
+                                        padding: 5px;
+                                        margin-left: 255px;
+                                    }
+                                    
+                                    .btn button:first-child {
+                                        font-size: 15px;
+                                        border: none;
+                                        text-decoration: underline;
+                                        background-color: white;
+                                    }
+                                    
+                                    .btn2 {
+                                        text-decoration: none !important;
+                                        background-color: #0078D4;
+                                        color: white;
+                                        padding: 10px 38px;
+                                        margin-left: 41px;
+                                    }
+                                    
+                                    .c-image {
+                                        max-width: none;
+                                        width: 108px;
+                                        margin-top: 22px;
+                                        margin-left: 65px;
+                                        float: left;
+                                    }
+                                    
+                                    .part2 {
+                                        width: 100%;
+                                        height: 60px;
+                                        background-color: #ffffff;
+                                    }
+                                    
+                                    .nav {}
+                                    
+                                    .nav ul {
+                                        float: left;
+                                    }
+                                    
+                                    .nav ul li {
+                                        list-style: none;
+                                        float: left;
+                                        margin-left: 18px;
+                                        margin-top: 6px;
+                                    }
+                                    
+                                    .nav ul li a {
+                                        text-decoration: none;
+                                        color: #262626;
+                                    }
+                                    
+                                    .searchButton {
+                                        width: 40px;
+                                        height: 36px;
+                                        border: 1px solid #0a0d0e;
+                                        background: white;
+                                        text-align: center;
+                                        color: rgb(2, 1, 1);
+                                        border-radius: 0 5px 5px 0;
+                                        cursor: pointer;
+                                        font-size: 20px;
+                                    }
+                                    
+                                    .nav span {
+                                        margin-left: 236px;
+                                    }
+                                    
+                                    .nav span button {
+                                        border: none;
+                                        margin-right: 20px;
+                                        font-size: 15px;
+                                        background-color: white;
+                                        margin-bottom: 16px;
+                                        position: relative;
+                                        top: -9px;
+                                    }
+                                    
+                                    .nav span img {
+                                        margin-left: 18px;
+                                        margin-top: 15px;
+                                        display: inline;
+                                    }
+                                    
+                                    .part3 {
+                                        width: 89%;
+                                        margin: auto;
+                                        height: 500px;
+                                        background-image: url("images/RE4DRie.png");
+                                        background-repeat: no-repeat;
+                                        background-position: right top;
+                                        text-align: center;
+                                        background: cover;
+                                        position: relative;
+                                        background-size: contain;
+                                    }
+                                    
+                                    .part3:before {
+                                        content: "<";
+                                        font-size: 40px;
+                                        position: absolute;
+                                        left: 0;
+                                        top: 210px;
+                                        border-radius: 50%;
+                                        background-color: rgb(233, 232, 232);
+                                        border: 1px solid grey;
+                                        -webkit-border-radius: 50%;
+                                        -moz-border-radius: 50%;
+                                        -ms-border-radius: 50%;
+                                        -o-border-radius: 50%;
+                                        padding: 0px 10px;
+                                    }
+                                    
+                                    .part3::after {
+                                        content: ">";
+                                        font-size: 40px;
+                                        position: absolute;
+                                        border-radius: 50%;
+                                        right: 0;
+                                        top: 210px;
+                                        padding: 0px 10px;
+                                        background-color: rgb(233, 232, 232);
+                                        border: 1px solid grey;
+                                        -webkit-border-radius: 50%;
+                                        -moz-border-radius: 50%;
+                                        -ms-border-radius: 50%;
+                                        -o-border-radius: 50%;
+                                    }
+                                    
+                                    .txt2 {
+                                        width: 405px;
+                                        padding-top: 129px;
+                                        padding-left: 132px;
+                                        text-align: left;
+                                    }
+                                    
+                                    .txt2 button {
+                                        border: none;
+                                        font-size: 16px;
+                                        color: white;
+                                        background-color: #0a0d0e;
+                                        padding: 5px 20px;
+                                        margin-left: -3px;
+                                        transition: 1s;
+                                        -webkit-transition: 1s;
+                                        -moz-transition: 1s;
+                                        -ms-transition: 1s;
+                                        -o-transition: 1s;
+                                        margin-top: 10px;
+                                    }
+                                    
+                                    .txt2 button:last-child {
+                                        border: none;
+                                        font-size: 16px;
+                                        color: rgb(0, 0, 0);
+                                        padding: 5px 20px;
+                                        margin-left: 20px;
+                                        background-color: #ecdfe8;
+                                    }
+                                    
+                                    .txt2 button::after {
+                                        font-size: 11px;
+                                        margin-top: -2px;
+                                        margin-left: 3px;
+                                        display: inline-block;
+                                        position: relative;
+                                        right: 0;
+                                        content: ">";
+                                        vertical-align: top;
+                                        font-size: 20px;
+                                    }
+                                    
+                                    .txt2 button:hover {
+                                        border: none;
+                                        font-size: 18px;
+                                        color: white;
+                                        background-color: #0a0d0e;
+                                        padding: 6px 22px;
+                                        margin-left: 20px;
+                                        text-decoration: underline;
+                                    }
+                                    
+                                    .txt2 button:last-child:hover {
+                                        border: none;
+                                        font-size: 18px;
+                                        color: rgb(63, 63, 63);
+                                        padding: 6px 22px;
+                                        margin-left: 20px;
+                                        text-decoration: underline;
+                                        background-color: #ecdfe8;
+                                    }
+                                    
+                                    .firstdiv {
+                                        width: 90%;
+                                        height: 200px;
+                                        background-color: rgb(255, 255, 255);
+                                        margin: auto;
+                                        margin-top: 60px;
+                                    }
+                                    
+                                    .same {
+                                        width: 15%;
+                                        height: 80%;
+                                        float: left;
+                                        text-align: center;
+                                        margin-left: 17px;
+                                    }
+                                    
+                                    .same p {
+                                        max-height: 60px;
+                                        line-height: 20px;
+                                        margin-left: 28px;
+                                        width: 125px;
+                                        white-space: normal;
+                                        margin-top: -4px;
+                                        position: relative;
+                                        text-align: center;
+                                        white-space: normal;
+                                        max-width: 125px;
+                                        margin-left: 22px;
+                                        color: inherit;
+                                        font-size: 18px;
+                                        font-weight: 500;
+                                        margin-top: 10px;
+                                        transition: 2s;
+                                        -webkit-transition: 2s;
+                                        -moz-transition: 2s;
+                                        -ms-transition: 2s;
+                                        -o-transition: 2s;
+                                        cursor: pointer;
+                                    }
+                                    
+                                    .same p:hover {
+                                        max-height: 60px;
+                                        line-height: 20px;
+                                        margin-left: 28px;
+                                        width: 125px;
+                                        white-space: normal;
+                                        margin-top: -4px;
+                                        position: relative;
+                                        text-align: center;
+                                        white-space: normal;
+                                        max-width: 125px;
+                                        margin-left: 22px;
+                                        color: inherit;
+                                        font-size: 20px;
+                                        font-weight: 600;
+                                        margin-top: 10px;
+                                        text-decoration: underline;
+                                        cursor: pointer;
+                                    }
+                                    
+                                    .sdiv {
+                                        width: 100%;
+                                        height: 400px;
+                                        margin: auto;
+                                        margin-left: 40px;
+                                    }
+                                    
+                                    .sane1 img {
+                                        width: 280px;
+                                        height: auto;
+                                    }
+                                    
+                                    .sane1 {
+                                        width: 22%;
+                                        height: 70%;
+                                        float: left;
+                                        margin-left: 15px;
+                                    }
+                                    
+                                    .sane1 h1 {
+                                        font-size: 20px;
+                                    }
+                                    
+                                    .sane1 p {
+                                        font-size: 18px;
+                                    }
+                                    
+                                    .sane1 button {
+                                        border: none;
+                                        color: #0732dd;
+                                        background-color: white;
+                                        font-size: 15px;
+                                        transition: 1s;
+                                        -webkit-transition: 1s;
+                                        -moz-transition: 1s;
+                                        -ms-transition: 1s;
+                                        -o-transition: 1s;
+                                        padding-left: 0px;
+                                    }
+                                    
+                                    .sane1 button:last-child {
+                                        border: none;
+                                        color: #0732dd;
+                                        background-color: white;
+                                        font-size: 16px;
+                                        margin-top: 13px;
+                                    }
+                                    
+                                    .sane1 button::after {
+                                        font-size: 8px;
+                                        margin-top: -3px;
+                                        margin-left: 8px;
+                                        display: inline-block;
+                                        position: relative;
+                                        right: 0;
+                                        content: ">";
+                                        vertical-align: top;
+                                        font-size: 20px;
+                                    }
+                                    
+                                    .sane1 button:hover {
+                                        border: none;
+                                        color: #0732dd;
+                                        background-color: white;
+                                        font-size: 18px;
+                                        border-bottom: 3px solid #0732dd;
+                                    }
+                                    
+                                    .mgame {
+                                        width: 90%;
+                                        height: 500px;
+                                        margin: auto;
+                                        background-image: url("images/RE4H4vB.png");
+                                        background-repeat: no-repeat;
+                                        background-position: left right;
+                                        text-align: center;
+                                        position: relative;
+                                        background: cover;
+                                        background-size: 1196px 450px;
+                                    }
+                                    
+                                    .txtdiv {
+                                        width: 32%;
+                                        height: 70%;
+                                        float: left;
+                                        margin-left: 15px;
+                                        color: white;
+                                        margin-top: 96px;
+                                        margin-left: 78px;
+                                        text-align: left;
+                                    }
+                                    
+                                    .txtdiv button:first-child {
+                                        color: #000000;
+                                        background-color: rgb(24, 10, 10);
+                                        font-size: 16px;
+                                        margin-top: 13px;
+                                        padding: 10px 20px;
+                                        text-decoration: underline;
+                                        border-bottom: 2px solid black;
+                                    }
+                                    
+                                    .txtdiv button:last-child {
+                                        border: none;
+                                        color: #0732dd;
+                                        background-color: white;
+                                        font-size: 16px;
+                                        margin-top: 13px;
+                                    }
+                                    
+                                    .txtdiv button {
+                                        border: none;
+                                        color: #000;
+                                        background-color: white;
+                                        font-size: 15px;
+                                        transition: 1s;
+                                        -webkit-transition: 1s;
+                                        -moz-transition: 1s;
+                                        -ms-transition: 1s;
+                                        -o-transition: 1s;
+                                        padding-left: 0px;
+                                        margin-left: 10px;
+                                        padding: 10px 20px;
+                                    }
+                                    
+                                    .txtdiv button:last-child {
+                                        border: none;
+                                        color: rgb(255, 255, 255);
+                                        background-color: rgba(23, 22, 22, 0);
+                                        font-size: 15px;
+                                        transition: 1s;
+                                        -webkit-transition: 1s;
+                                        -moz-transition: 1s;
+                                        -ms-transition: 1s;
+                                        -o-transition: 1s;
+                                        padding-left: 0px;
+                                        margin-left: 10px;
+                                        padding: 10px 20px;
+                                    }
+                                    
+                                    .txtdiv button::after {
+                                        font-size: 8px;
+                                        margin-top: -3px;
+                                        margin-left: 5px;
+                                        display: inline-block;
+                                        position: relative;
+                                        right: 0;
+                                        content: ">";
+                                        vertical-align: top;
+                                        font-size: 20px;
+                                    }
+                                    
+                                    .txtdiv button:first-child:hover {
+                                        background-color: white;
+                                        font-size: 19px;
+                                        border-bottom: 2px solid black;
+                                    }
+                                    
+                                    .txtdiv button:last-child:hover {
+                                        background-color: rgba(23, 22, 22, 0);
+                                        font-size: 18px;
+                                        border-bottom: 3px solid #ffffff;
+                                    }
+                                    
+                                    .sdiv {
+                                        width: 100%;
+                                        height: 400px;
+                                        margin: auto;
+                                        margin-left: 40px;
+                                    }
+                                    
+                                    .sane1 img {
+                                        width: 280px;
+                                        height: auto;
+                                    }
+                                    
+                                    .sane1 {
+                                        width: 22%;
+                                        height: 70%;
+                                        float: left;
+                                        margin-left: 15px;
+                                    }
+                                    
+                                    .sane1 h1 {
+                                        font-size: 20px;
+                                    }
+                                    
+                                    .sane1 p {
+                                        font-size: 18px;
+                                    }
+                                    
+                                    .sane1 button {
+                                        border: none;
+                                        color: #0732dd;
+                                        background-color: white;
+                                        font-size: 15px;
+                                        transition: 1s;
+                                        -webkit-transition: 1s;
+                                        -moz-transition: 1s;
+                                        -ms-transition: 1s;
+                                        -o-transition: 1s;
+                                        padding-left: 0px;
+                                    }
+                                    
+                                    .sane1 button:last-child {
+                                        border: none;
+                                        color: #0732dd;
+                                        background-color: white;
+                                        font-size: 16px;
+                                        margin-top: 13px;
+                                    }
+                                    
+                                    .sane1 button::after {
+                                        font-size: 8px;
+                                        margin-top: -3px;
+                                        margin-left: 8px;
+                                        display: inline-block;
+                                        position: relative;
+                                        right: 0;
+                                        content: ">";
+                                        vertical-align: top;
+                                        font-size: 20px;
+                                    }
+                                    
+                                    .sane1 button:hover {
+                                        border: none;
+                                        color: #0732dd;
+                                        background-color: white;
+                                        font-size: 18px;
+                                        border-bottom: 3px solid #0732dd;
+                                    }
+                                    
+                                    .opacity:hover {
+                                        opacity: 0.8;
+                                    }
+                                    
+                                    .covid {
+                                        width: 92%;
+                                        padding: 8px 0px;
+                                        margin: auto;
+                                        text-align: center;
+                                        height: 140px;
+                                        background-color: rgb(207, 201, 201);
+                                        margin-bottom: 50px;
+                                    }
+                                    
+                                    .info button::after {
+                                        font-size: 8px;
+                                        margin-top: 0px;
+                                        margin-left: 8px;
+                                        display: inline-block;
+                                        position: relative;
+                                        right: 0;
+                                        content: ">";
+                                        vertical-align: top;
+                                        font-size: 17px;
+                                    }
+                                    
+                                    .info button {
+                                        transition: 1s;
+                                        font-size: 17px;
+                                        border: none;
+                                        cursor: pointer;
+                                        background-color: rgb(207, 201, 201);
+                                        -webkit-transition: 1s;
+                                        -moz-transition: 1s;
+                                        -ms-transition: 1s;
+                                        -o-transition: 1s;
+                                    }
+                                    
+                                    .info button:hover {
+                                        font-size: 8px;
+                                        margin-top: -3px;
+                                        margin-left: 8px;
+                                        display: inline-block;
+                                        position: relative;
+                                        right: 0;
+                                        content: ">";
+                                        vertical-align: top;
+                                        border-bottom: 2px solid black;
+                                        font-size: 18px;
+                                        cursor: pointer;
+                                        background-color: rgb(207, 201, 201);
+                                    }
+                                    
+                                    .partt {
+                                        width: 92%;
+                                        margin: auto;
+                                        height: 500px;
+                                        background-image: url("images/RE4LD2V.png");
+                                        background-repeat: no-repeat;
+                                        background-position: center center;
+                                        text-align: center;
+                                        position: relative;
+                                    }
+                                    
+                                    .partt:before {
+                                        content: "<";
+                                        font-size: 40px;
+                                        position: absolute;
+                                        left: 0;
+                                        top: 250px;
+                                        border-radius: 50%;
+                                        background-color: rgb(233, 232, 232);
+                                        border: 1px solid grey;
+                                        -webkit-border-radius: 50%;
+                                        -moz-border-radius: 50%;
+                                        -ms-border-radius: 50%;
+                                        -o-border-radius: 50%;
+                                        padding: 0px 10px;
+                                    }
+                                    
+                                    .partt::after {
+                                        content: ">";
+                                        font-size: 40px;
+                                        position: absolute;
+                                        border-radius: 50%;
+                                        right: 0;
+                                        top: 250px;
+                                        padding: 0px 10px;
+                                        background-color: rgb(233, 232, 232);
+                                        border: 1px solid grey;
+                                        -webkit-border-radius: 50%;
+                                        -moz-border-radius: 50%;
+                                        -ms-border-radius: 50%;
+                                        -o-border-radius: 50%;
+                                    }
+                                    
+                                    .txtt {
+                                        width: 405px;
+                                        padding-top: 200px;
+                                        padding-left: 176px;
+                                        text-align: left;
+                                    }
+                                    
+                                    .txtt button {
+                                        border: none;
+                                        font-size: 16px;
+                                        color: white;
+                                        background-color: #0a0d0e;
+                                        padding: 5px 20px;
+                                        margin-left: -3px;
+                                        transition: 1s;
+                                        -webkit-transition: 1s;
+                                        -moz-transition: 1s;
+                                        -ms-transition: 1s;
+                                        -o-transition: 1s;
+                                        margin-top: 10px;
+                                    }
+                                    
+                                    .txtt button:last-child {
+                                        border: none;
+                                        font-size: 16px;
+                                        color: rgb(0, 0, 0);
+                                        padding: 5px 20px;
+                                        margin-left: 20px;
+                                        background-color: #ecdfe8;
+                                    }
+                                    
+                                    .txtt button::after {
+                                        font-size: 11px;
+                                        margin-top: -2px;
+                                        margin-left: 3px;
+                                        display: inline-block;
+                                        position: relative;
+                                        right: 0;
+                                        content: ">";
+                                        vertical-align: top;
+                                        font-size: 20px;
+                                    }
+                                    
+                                    .txtt button:hover {
+                                        border: none;
+                                        font-size: 18px;
+                                        color: white;
+                                        background-color: #0a0d0e;
+                                        padding: 6px 22px;
+                                        margin-left: 20px;
+                                        text-decoration: underline;
+                                    }
+                                    
+                                    .txtt button:last-child:hover {
+                                        border: none;
+                                        font-size: 18px;
+                                        color: rgb(63, 63, 63);
+                                        padding: 6px 22px;
+                                        margin-left: 20px;
+                                        text-decoration: underline;
+                                        background-color: #ecdfe8;
+                                    }
+                                    
+                                    .txtt h2 {
+                                        ont-size: 22px;
+                                        color: white
+                                    }
+                                    
+                                    .txtt p {
+                                        color: white;
+                                        line-height: 24px;
+                                        line-break: inherit;
+                                    }
+                                    
+                                    .socia {
+                                        margin-left: 35px;
+                                        margin-top: 60px;
+                                    }
+                                    
+                                    .socia span {
+                                        font-size: 20px;
+                                        float: left;
+                                        margin-left: 20px;
+                                    }
+                                    
+                                    .socia ul {
+                                        margin-bottom: 60px;
+                                    }
+                                    
+                                    .socia ul li {
+                                        list-style: none;
+                                        float: left;
+                                        margin-left: 15px;
+                                    }
+                                    
+                                    .socia ul li a img {
+                                        width: 26px;
+                                        height: auto;
+                                    }
+                                    
+                                    .footer {
+                                        width: 94%;
+                                        height: 550px;
+                                        margin: auto;
+                                        padding-bottom: ;
+                                    }
+                                    
+                                    .foot {
+                                        width: 100%;
+                                        height: 100%;
+                                        margin-top: 38px;
+                                    }
+                                    
+                                    .c-uhff-nav-group {
+                                        float: left;
+                                        padding-top: 60px
+                                    }
+                                    
+                                    .c-uhff-nav-group ul {
+                                        margin: 5px;
+                                        float: left;
+                                        padding-top: 30px
+                                    }
+                                    
+                                    .c-uhff-nav-group ul li {
+                                        list-style: none;
+                                        margin-top: 6px;
+                                    }
+                                    
+                                    .c-uhff-nav-group ul li a {
+                                        text-decoration: none;
+                                        color: rgb(66, 66, 66);
+                                    }
+                                    
+                                    .c-uhff {
+                                        background: #f2f2f2;
+                                        margin-top: 48px
+                                    }
+                                    
+                                    .c-uhff .c-modal-link {
+                                        cursor: pointer
+                                    }
+                                    
+                                    .c-uhff-link {
+                                        text-decoration: none;
+                                        color: #5e5b5b;
+                                    }
+                                    
+                                    .c-uhff-nav {
+                                        max-width: calc(1600px + 10%);
+                                        padding: 0 5%;
+                                        padding-top: 0px;
+                                        margin-top: 146px;
+                                        padding-top: 28px;
+                                    }
+                                    
+                                    .c-uhff-nav:before,
+                                    .c-uhff-nav:after {
+                                        content: " ";
+                                        display: table
+                                    }
+                                    
+                                    .c-uhff-nav:after {
+                                        clear: both
+                                    }
+                                    
+                                    .c-uhff-nav .c-heading-4 {
+                                        font-size: 18px;
+                                        line-height: 20px;
+                                        margin-left: 45px;
+                                        margin-bottom: -0px;
+                                    }
+                                    
+                                    .c-uhff-nav .c-heading-4,
+                                    .c-uhff-nav a.c-uhff-link {
+                                        color: #616161;
+                                        word-break: break-word;
+                                    }
+                                    
+                                    .c-uhff-nav-group {
+                                        display: block;
+                                        float: left;
+                                        min-height: 1px;
+                                        vertical-align: text-top;
+                                        padding: 0 12px;
+                                        width: 16.6666666667%;
+                                        zoom: 1
+                                    }
+                                    
+                                    .c-uhff-nav-group ul.c-list {
+                                        font-size: 13px;
+                                        line-height: 16px;
+                                        margin-top: 20px;
+                                    }
+                                    
+                                    .c-uhff-nav-group:first-child {
+                                        padding-left: 0
+                                    }
+                                    
+                                    .c-uhff-base {
+                                        background: #f2f2f2;
+                                        margin: 0 auto;
+                                        max-width: calc(1600px + 10%);
+                                        padding: 30px 5% 16px
+                                    }
+                                    
+                                    .c-uhff-base:before,
+                                    .c-uhff-base:after {
+                                        content: " ";
+                                        display: table
+                                    }
+                                    
+                                    .c-uhff-base:after {
+                                        clear: both
+                                    }
+                                    
+                                    .c-uhff-base>a.c-uhff-link.c-uhff-lang-selector {
+                                        font-size: 13px;
+                                        line-height: 16px;
+                                        display: inline-block;
+                                        padding-right: 24px;
+                                        color: #616161;
+                                        float: left;
+                                        white-space: nowrap
+                                    }
+                                    
+                                    .c-uhff-base>a.c-uhff-link.c-uhff-lang-selector:before {
+                                        font-size: 20px;
+                                        line-height: 24px;
+                                        margin-right: 10px;
+                                        vertical-align: middle
+                                    }
+                                    
+                                    .c-uhff-base ul.c-list {
+                                        font-size: 13px;
+                                        line-height: 16px;
+                                        float: right;
+                                        margin: 3px 0;
+                                        color: #616161;
+                                        padding-bottom: 16px;
+                                    }
+                                    
+                                    .c-uhff-base ul.c-list li {
+                                        padding: 0 24px 4px 0;
+                                        display: inline-block
+                                    }
+                                    
+                                    @media only screen and (max-width: 1083px) {
+                                        .c-uhff-nav {
+                                            padding: 0 12px
+                                        }
+                                        .c-uhff-nav-row:before,
+                                        .c-uhff-nav-row:after {
+                                            content: " ";
+                                            display: table
+                                        }
+                                        .c-uhff-nav-row:after {
+                                            clear: both
+                                        }
+                                        .c-uhff-nav-group {
+                                            width: 33.33333%
+                                        }
+                                        .c-uhff-nav-group:first-child {
+                                            padding-left: 12px
+                                        }
+                                        .c-uhff-base {
+                                            display: flex;
+                                            flex-wrap: wrap;
+                                            padding: 30px 24px 16px
+                                        }
+                                        .c-uhff-base>a.c-uhff-link {
+                                            margin-right: auto
+                                        }
+                                    }
+                                    
+                                    @media only screen and (max-width: 767px) {
+                                        .c-uhff-base>a.c-uhff-link {
+                                            width: 100%
+                                        }
+                                        .c-uhff-base>a.c-uhff-link+ul.c-list {
+                                            width: 100%
+                                        }
+                                        .c-uhff-base>a.c-uhff-link,
+                                        .c-uhff-base>a.c-uhff-link.c-glyph {
+                                            float: none
+                                        }
+                                        .c-uhff-base ul.c-list {
+                                            width: 100%;
+                                            float: none;
+                                            text-align: left;
+                                            margin-top: 12px
+                                        }
+                                        .c-uhff-base ul.c-list li {
+                                            padding: 6px 4px 0 6px
+                                        }
+                                    }
+                                    
+                                    @media only screen and (max-width: 539px) {
+                                        .c-uhff-nav-row {
+                                            width: 100%;
+                                            float: none
+                                        }
+                                        .c-uhff-base ul.c-list {
+                                            float: left
+                                        }
+                                        .c-uhff-base ul.c-list li {
+                                            padding: 6px 10px 0 0
+                                        }
+                                        .c-uhff-nav-group {
+                                            width: 100%
+                                        }
+                                    }
+                                    
+                                    @supports (-ms-ime-align: auto) {
+                                        {}
+                                        a.c-uhff-link {
+                                            display: inline-block
+                                        }
+                                    }
+                                    
+                                    a.c-uhff-link:focus {
+                                        outline: 1px dashed;
+                                        outline-offset: 3px
+                                    }
+                                    
+                                    a.c-uhff-link:focus,
+                                    a.c-uhff-link:hover {
+                                        color: rgba(0, 0, 0, 0.9);
+                                        text-decoration: underline
+                                    }
+                                    
+                                    a.c-uhff-link:active {
+                                        background: none;
+                                        color: rgba(0, 0, 0, 0.8)
+                                    }
+                                    
+                                    div#lp-iframe-container {
+                                        border: none;
+                                        bottom: 24px;
+                                        box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.25);
+                                        height: 500px;
+                                        left: auto !important;
+                                        min-width: 300px;
+                                        max-width: 350px;
+                                        padding: 0;
+                                        position: fixed;
+                                        right: 24px;
+                                        top: auto !important;
+                                        z-index: 1001
+                                    }
+                                    
+                                    @media only screen and (max-width: 539px) {
+                                        div#lp-iframe-container {
+                                            bottom: 0;
+                                            right: 0
+                                        }
+                                    }
+                                    
+                                    .lp-iframe-window {
+                                        border: none;
+                                        height: 500px;
+                                        width: 350px
+                                    }
+                                    
+                                    div#lp-iframe-container,
+                                    .lp-iframe-window {
+                                        border-radius: 5px
+                                    }
+                                    
+                                    .lp-cartcheckout-invite {
+                                        left: 30px !important
+                                    }
+                                    
+                                    div#lp-proactive-invite {
+                                        bottom: 0;
+                                        border: none;
+                                        box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.25);
+                                        height: 185px;
+                                        left: auto !important;
+                                        max-width: 359px;
+                                        padding: 0;
+                                        position: fixed;
+                                        right: 80px;
+                                        top: 280px !important;
+                                        width: 360px;
+                                        z-index: 1001
+                                    }
+                                    
+                                    div#lp-proactive-invite button.c-button:focus:not(.x-hidden-focus),
+                                    div#lp-proactive-invite a.c-button:focus:not(.x-hidden-focus) {
+                                        text-decoration: none
+                                    }
+                                    
+                                    div#lp-proactive-invite .lp-chatnow {
+                                        left: 2px
+                                    }
+                                    
+                                    div#lp-proactive-invite .lp-chatnow,
+                                    div#lp-proactive-invite .lp-nothanks {
+                                        bottom: 5px;
+                                        display: inline-block;
+                                        height: 45px;
+                                        margin: 0px;
+                                        padding: 0px;
+                                        position: absolute;
+                                        width: 175px
+                                    }
+                                    
+                                    .sdiv {
+                                        width: 100%;
+                                        height: 400px;
+                                        margin: auto;
+                                        margin-bottom: auto;
+                                        margin-left: auto;
+                                        margin-left: 40px;
+                                        margin-bottom: 24px;
+                                    }
+                                    
+                                    div#lp-proactive-invite .lp-nothanks {
+                                        background: #3e3a3a;
+                                        color: white;
+                                        left: 181px
+                                    }
+                                    
+                                    div#lp-proactive-invite .proactive-invite-button {
+                                        border: none;
+                                        height: 1px;
+                                        margin: 0;
+                                        min-width: 1px;
+                                        padding: 0
+                                    }
+                                    
+                                    div#lp-proactive-invite .proactive-invite-container {
+                                        bottom: 0;
+                                        position: fixed;
+                                        right: 0
+                                    }
+                                    
+                                    div#lp-proactive-invite .lp-needhelp {
+                                        background-color: black;
+                                        bottom: 22px;
+                                        color: white;
+                                        right: 40px;
+                                        padding-left: 5px;
+                                        padding-right: 5px;
+                                        position: absolute
+                                    }
+                                    
+                                    div#lp-proactive-invite .lp-needhelp p {
+                                        font-size: 50px
+                                    }
+                                    
+                                    div#lp-proactive-invite button.c-button:focus:not(.x-hidden-focus):not(.f-lightweight):not([disabled]),
+                                    div#lp-proactive-invite button.c-button:hover:not(.f-lightweight):not([disabled]) {
+                                        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+                                    }
+                                    
+                                    div#lp-proactive-invite button.c-button.f-primary.lp-chatnow:focus:not(.x-hidden-focus),
+                                    div#lp-proactive-invite button.c-button.f-primary.lp-chatnow:hover {
+                                        background: #005da6
+                                    }
